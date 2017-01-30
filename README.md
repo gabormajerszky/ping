@@ -1,2 +1,2 @@
-# Ping
-Puzzle game called Ping written in Python
+# ping
+Puzzle game called ping written in Python
